@@ -1,5 +1,10 @@
-## Hi there 👋
+# ¡Hola! 👋
 
+Mi nombre es Jesus, soy de Buenos Aires - Argentina.
+
+*Actualmente estudio ingenieria en sistemas en la Universidad Tecnologica Nacional.
+
+Contacto: jesuszerda18@gmail.com
 <!--
 **Jesus16180/Jesus16180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
