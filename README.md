@@ -2,6 +2,8 @@
 
 Mi nombre es Jesus, soy de Buenos Aires - Argentina.
 
+Egresado de Tecnico en Informatica Personal y Profesional en EEST Nº5.
+
 Actualmente estudio Ingenieria en Sistemas en la Universidad Tecnologica Nacional.
 
 ## Certificados de Platzi
@@ -14,8 +16,6 @@ Actualmente estudio Ingenieria en Sistemas en la Universidad Tecnologica Naciona
 Codeo en lenguajes como C++, C# y JS; se manejarme del lado del servidor con PHP y Nodejs y se hacer consultas a bases de datos con MySQL.
 
 ## Herramientas
-
-
 
 <div>
   
@@ -31,17 +31,4 @@ Codeo en lenguajes como C++, C# y JS; se manejarme del lado del servidor con PHP
 
 - [Gmail: jesuszerda18@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=jesuszerda18@gmail.com&body=)
 - [Linkedin](https://www.linkedin.com/in/jesus-zerda-776368258/)
-<!--
-**Jesus16180/Jesus16180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
