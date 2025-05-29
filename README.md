@@ -4,6 +4,10 @@ Mi nombre es Jesus, soy de Buenos Aires - Argentina.
 
 *Actualmente estudio ingenieria en sistemas en la Universidad Tecnologica Nacional.
 
+##Certificados Platzi:
+
+[Certificado Curso Basico de JavaScript](https://platzi.com/p/jesuszerda18/curso/1814-course/diploma/detalle/)
+
 Contacto: jesuszerda18@gmail.com
 <!--
 **Jesus16180/Jesus16180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
