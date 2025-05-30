@@ -30,5 +30,5 @@ Codeo en lenguajes como C++, C# y JS; se manejarme del lado del servidor con PHP
 ## Contacto
 
 - [Gmail: jesuszerda18@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&source=mailto&to=jesuszerda18@gmail.com&body=)
-- [Linkedin](https://www.linkedin.com/in/jesus-zerda-776368258/)
+- [Linkedin](https://www.linkedin.com/in/jesus-maria-ernesto-zerda-cazal-776368258/)
 
